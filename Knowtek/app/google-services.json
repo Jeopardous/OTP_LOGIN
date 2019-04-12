@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832321715540",
+    "firebase_url": "https://knowtek-c8c66.firebaseio.com",
+    "project_id": "knowtek-c8c66",
+    "storage_bucket": "knowtek-c8c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832321715540:android:a0642f4a447adb0d",
+        "android_client_info": {
+          "package_name": "com.example.knowtek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832321715540-65ke91gf9laplk1naipsq56ik3g8in4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knowtek",
+            "certificate_hash": "680ef3d0ad92262b8801956c8e60c76f4546eeb2"
+          }
+        },
+        {
+          "client_id": "832321715540-ebgaj34dtb8jlch6o4v10qcn6etndupt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AsK6tYyDOWJNYT-ZLNmMTn6chI5O9B4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832321715540-ebgaj34dtb8jlch6o4v10qcn6etndupt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

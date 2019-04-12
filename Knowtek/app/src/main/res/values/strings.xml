@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Knowtek</string>
+    <string name="welcome_text">Welcome To Knowtek</string>
+    <string name="ask_login">Login with Phone</string>
+    <string name="login_title">Login Using Phone</string>
+    <string name="phn_hint">Mobile No.</string>
+    <string name="otp_hint">OTP</string>
+    <string name="login_btn_hint">Login</string>
+    <string name="signOut_btn_hint">Sign Out</string>
+    <string name="genOtp_hint">generate otp</string>
+    <string name="verify_hint">Verify OTP</string>
+</resources>
